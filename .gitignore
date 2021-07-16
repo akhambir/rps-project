@@ -1,0 +1,24 @@
+# IDE-specific:
+.idea/
+.settings/
+.vscode/
+.classpath
+.project
+*.iml
+
+# Build
+build/
+out/
+bin
+
+# Tools
+.gradle/
+gradle
+gradlew
+gradlew.bat
+
+# App pid
+app.pid
+
+# Dev env
+application-dev.yml
